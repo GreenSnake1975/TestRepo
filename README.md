@@ -9,5 +9,5 @@ and one more
 
 Change global paramter: 
 * git config --global --list
-* git config --global user.name "<actual username>"
-* git config --global user.email "<actual email>"
+* git config --global user.name "\<actual username\>"
+* git config --global user.email "\<actual email\>"
