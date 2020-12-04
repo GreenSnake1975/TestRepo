@@ -1,4 +1,4 @@
-Add-Type -assembly System.Windows.Forms
+﻿Add-Type -assembly System.Windows.Forms
 $window_form = New-Object System.Windows.Forms.Form
 $window_form.Text ="Пример 00000"
 $window_form.Width = 500
