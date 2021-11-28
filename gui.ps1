@@ -1,4 +1,4 @@
-﻿# todo : something usefull
+﻿# todo : something usefull or not
 Add-Type -assembly System.Windows.Forms
 $window_form = New-Object System.Windows.Forms.Form
 $window_form.Text ="Пример 00000"
